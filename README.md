@@ -6,7 +6,8 @@
 
 1. 导入本demo中的RxScan module
 2. 使用如下:
-    '''
+
+    ```
     findViewById(R.id.btn).setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
@@ -28,4 +29,4 @@
                 }
             });
 
-    '''
+    ```
